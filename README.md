@@ -1,0 +1,1 @@
+# -operador-IN-en-Oracle-SQL-
